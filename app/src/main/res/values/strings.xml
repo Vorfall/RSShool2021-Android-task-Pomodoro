@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pomodoro Timer</string>
+    <string name="add_timer">Add Timer</string>
+    <string name="stop">Stop</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="start">Start</string>
+    <string name="empty">Empty :(</string>
+    <string name="label">Label</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="restart">Restart</string>
+</resources>
